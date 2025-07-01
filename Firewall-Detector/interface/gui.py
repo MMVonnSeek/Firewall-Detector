@@ -44,6 +44,10 @@ def iniciar_interface():
     janela = tk.Tk()
     janela.title("Firewall Detector")
 
+    # Carregar o ícone PNG e definir como ícone da janela (funciona no Windows, Linux, macOS)
+    icone = tk.PhotoImage(file='C:/Users/Max/Desktop/firewall.png')
+    janela.iconphoto(False, icone)
+
     tk.Label(janela, text="IP:").grid(row=0, column=0)
     ip_entry = tk.Entry(janela)
     ip_entry.grid(row=0, column=1)
