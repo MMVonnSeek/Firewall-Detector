@@ -46,7 +46,7 @@ def iniciar_interface():
     janela.title("Firewall Detector")
     janela.configure(bg='#2e2e2e')
 
-    icone = tk.PhotoImage(file='C:/Users/Max/Documents/GitHub/Firewall-Detector/Firewall-Detector/interface/firewall.png')
+    icone = tk.PhotoImage(file='C:/Users/Max/Documents/GitHub/Firewall-Detector/Firewall-Detector/interface/MM.png')
     janela.iconphoto(False, icone)
 
     tk.Label(janela, text="IP:", bg='#2e2e2e', fg='white', font=('Courier', 10)).grid(row=0, column=0)
