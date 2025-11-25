@@ -43,3 +43,10 @@ pip install -r requirements.txt
 
 3. Execute o projeto:
 python main.py
+
+---
+
+## Autor
+Professor: Max Müller
+
+Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
