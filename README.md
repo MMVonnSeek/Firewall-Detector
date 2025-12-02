@@ -30,18 +30,26 @@ Capacitar estudantes em Fundamentos de Redes e Segurança da Informação a ente
 
 ## Como Executar
 
-1. Clone o repositório:
+1. Faça um Fork do Repositório:
+Antes de tudo, crie sua própria cópia deste projeto:
 
+- Clique no botão Fork no canto superior direito do GitHub.
 
-git clone https://github.com/seu-usuario/Firewall-Detector.git
+- Isso criará uma versão do repositório na sua conta.
+
+2. Clone o Seu Repositório Forkado:
+
+```
+git clone https://github.com/SEU-USUARIO/Firewall-Detector.git
 cd Firewall-Detector
+```
+###### Substitua SEU-USUARIO pelo nome do seu GitHub.
 
-
-2. Instale as dependências:
+3. Instale as dependências:
 pip install -r requirements.txt
 
 
-3. Execute o projeto:
+4. Execute o projeto:
 python main.py
 
 ---
