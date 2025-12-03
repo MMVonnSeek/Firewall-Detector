@@ -2,8 +2,8 @@
 
 
 ![Autor](https://img.shields.io/badge/Autor-Max_Müller-blue?style=for-the-badge&logo=github)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
-![Firewall Analyzer](https://img.shields.io/badge/Firewall-Rule_Analyzer-red?style=for-the-badge&logo=security)
+![Python](https://img.shields.io/badge/Python-3.8%2B-yellow?style=for-the-badge&logo=python)
+![Firewall Analyzer](https://img.shields.io/badge/Firewall-Rule_Analyzer-orange?style=for-the-badge&logo=security)
 ![Ethical Use](https://img.shields.io/badge/Ethical_Use-For_Education_Only-red?style=for-the-badge&logo=security)
 
 
