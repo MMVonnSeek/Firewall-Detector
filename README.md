@@ -1,5 +1,12 @@
 # Firewall-Detector
 
+
+![Autor](https://img.shields.io/badge/Autor-Max_Müller-blue?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![Firewall Analyzer](https://img.shields.io/badge/Firewall-Rule_Analyzer-red?style=for-the-badge&logo=security)
+![Ethical Use](https://img.shields.io/badge/Ethical_Use-For_Education_Only-red?style=for-the-badge&logo=security)
+
+
 **Sistema Educacional de Detecção de Regras de Firewall**
 
 Este projeto simula um ambiente de rede local para identificar e analisar regras de firewall ativas no sistema, com o objetivo de demonstrar o funcionamento de bloqueios, permissões e comportamento esperado de tráfego em redes protegidas.
