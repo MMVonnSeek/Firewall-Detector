@@ -59,6 +59,7 @@ pip install -r requirements.txt
 4. Execute o projeto:
 python main.py
 
+---
 
 ## 💖 Apoie este projeto
 
